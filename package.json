@@ -1,5 +1,6 @@
 {
   "name": "random-quote-app",
+  "homepage": "/random-quote-machine",
   "private": true,
   "version": "0.0.0",
   "type": "module",
