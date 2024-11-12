@@ -58,7 +58,6 @@ function HelloTailWind() {
             </Tooltip>
             <a id="tweet-quote" href='https://twitter.com/intent/tweet' target='_blanck' rel='Twitter link'>link</a>
             </div>
-
             <div>
                 <button id="new-quote" style={{background:`${color}`,color:'white', border:"none", padding:"8px", borderRadius:"6px"}} onClick={handleNextQuote} >
                     New quote
